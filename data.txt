@@ -1,0 +1,6 @@
+Daily Work Report – 22/07/2026
+1. Created a Git account and configured it on the PC.
+2. Created a GitHub profile, created a new repository, and hosted the website live through the repository.
+3. Prepared the architecture for pushing text files to GitHub and viewing them on the cloud platform.
+4. Extracted Modbus addresses from the KS98-2 program.
+5. Prepared an Excel sheet for the extracted Modbus addresses
