@@ -1,6 +1,0 @@
-How to use it:
-
-Open the file in a browser (or host it via GitHub Pages, same as before)
-Generate a Fine-grained Personal Access Token on GitHub (Settings → Developer settings → Fine-grained tokens) scoped to just the one repo, with "Contents: Read and write" permission
-Paste the token, your username, repo name, and the file path you want (e.g. notes.txt)
-Type your text and click Push to GitHub
